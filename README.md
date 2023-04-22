@@ -60,7 +60,7 @@ systemctl restart wg-quick@wg0
   - Stunnel4                : 222, 777
   - Dropbear                : 442, 109
   - OHP OpenVPN             : 8787
-  - Squid Proxy             : 3128, 8080, 8000
+  - Squid Proxy             : 3128, 8000
   - Badvpn                  : 7100, 7200, 7300
   - Nginx                   : 81
   - XRAY Vmess Ws Tls       : 443
