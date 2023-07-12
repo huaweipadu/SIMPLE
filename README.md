@@ -1,5 +1,5 @@
 # Script MATKIMIA V7-Websocket
- Welcome MAT KIMIA 442😊
+ Welcome hamba allah 442😊
 
  <h2 align="center">AutoScript VPN By MATKIMIA 442 <img src="https://img.shields.io/badge/Version-7.0-blue.svg"></h2>
 
@@ -29,7 +29,7 @@ src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https:/
 ## INSTALLATION SCRIPT SIMPLE
 
   ```html
-  sysctl -w nesysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/huaweipadu/simple/main/setup-simple.sh && chmod +x setup-simple.sh && sed -i -e 's/\r$//' setup-simple.sh && screen -S setup ./setup-simple.sh
+  sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/huaweipadu/simple/main/setup-simple.sh && chmod +x setup-simple.sh && sed -i -e 's/\r$//' setup-simple.sh && screen -S setup ./setup-simple.sh
    ```
 
 ## INSTALLATION SCRIPT
